@@ -1,6 +1,12 @@
 ### Hi there 👋
+### Hi there sT
 
-<!--
+const midudev
+{
+pronouns: "he" | "him"
+code: [Javascript, Typescript, HTML, CSS],
+tools: [React, Node, Storybook, Styled-Components, Jest, Dockerl,
+
 **Calleenrrique/Calleenrrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
